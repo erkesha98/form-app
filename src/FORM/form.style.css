@@ -1,0 +1,14 @@
+.stepper{
+    display: flex;
+justify-content: space-around;}
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.input input{
+    padding: 10px;
+}
+.input label{
+    font-size: 20px;
+}
